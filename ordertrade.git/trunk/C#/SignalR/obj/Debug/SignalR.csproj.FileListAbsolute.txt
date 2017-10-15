@@ -1,0 +1,34 @@
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\SignalR.dll
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\SignalR.pdb
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Owin.dll
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Newtonsoft.Json.dll
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Owin.dll
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Owin.xml
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\bin\Newtonsoft.Json.xml
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\obj\Debug\SignalR.csprojResolveAssemblyReference.cache
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\obj\Debug\SignalR.dll
+c:\users\jose\documents\visual studio 2012\Projects\SignalR\SignalR\obj\Debug\SignalR.pdb
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\SignalR.dll
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\SignalR.pdb
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Owin.dll
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\obj\Debug\SignalR.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\obj\Debug\SignalR.dll
+C:\Users\Rodrigo\Desktop\SignalR\C#\SignalR\obj\Debug\SignalR.pdb
